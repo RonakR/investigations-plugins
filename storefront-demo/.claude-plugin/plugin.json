@@ -1,0 +1,11 @@
+{
+  "name": "storefront-demo",
+  "displayName": "Storefront demo",
+  "description": "Operational skills for the storefront demo stack: triaging its Prometheus alerts down to a root cause and a noise-or-real call.",
+  "version": "0.1.0",
+  "author": {
+    "name": "incident.io"
+  },
+  "repository": "https://github.com/incident-io/ai-demo-harness",
+  "keywords": ["incident-response", "alerts", "triage", "demo"]
+}
